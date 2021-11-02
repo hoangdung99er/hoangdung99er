@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm an introvert guy, but I'm really happy if to see someone talk to me.
 
 - 🔭 I’m currently working on Fresher at FSoft Academy
-- 🤔 I’m looking for help with my soul 😄
+- 🤔 I’m looking for help with me. 😄
+- 👯 I’m looking to collaborate on mini project 
+- ⚡ Quotes for me : When you hit rock bottom, you still have the way to go until the abyss
 
 <!--
 **hoangdung99er/hoangdung99er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
