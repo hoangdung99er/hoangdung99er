@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Fresher at FSoft Academy
 - 🤔 I’m looking for help with me. 😄
 - 👯 I’m looking to collaborate on mini project 
+- 💬 About me : Nice guy, self-learning, research new feature, do work out :joy:, just kidding tho, watch pod cast, tv show, entertainment show,...
 - ⚡ Quotes for me : When you hit rock bottom, you still have the way to go until the abyss
 
 <!--
